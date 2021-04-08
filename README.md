@@ -9,9 +9,8 @@ My name is Utsav Gadhiya and I'm a Back-End Dev/Engineer. I'm from Gujarat and c
 ![Code](https://img.shields.io/badge/Editor-code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
 ![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
-![C](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a)
+<!-- ![C](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a) -->
 ![Nodejs](https://img.shields.io/badge/Code-Nodejs-informational?style=flat-square&logo=node.js&logoColor=white&color=2bbc8a)
-![Angular](https://img.shields.io/badge/Code-Angular-informational?style=flat-square&logo=angular&logoColor=white&color=2bbc8a)
 ![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![MongoDB](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=2bbc8a)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2bbc8a)
