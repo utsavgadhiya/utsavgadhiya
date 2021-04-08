@@ -2,7 +2,7 @@
 
 # Hello, folks! 👋
 
-My name is Utsav Gadhiya and I'm a Software Developer. I'm from Gujarat and currently working at SRKay Consulting Group. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3] .
+My name is Utsav Gadhiya and I'm a Back-End Dev/Engineer. I'm from Gujarat and currently working at SRKay Consulting Group. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3] .
 
 ## 🔧 Technologies & Tools
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=2bbc8a)
